@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ubuntu 16.04 MySQL安装配置
+title: Ubuntu 安装 MySQL
+subtitle: Ubuntu 16.04下安装 MySQL
 date: 2017-05-10
 author:     winger
 header-img: img/post-bg-25.jpeg
