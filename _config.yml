@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-me-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-
+github_username:    wingerx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -55,3 +55,8 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
+
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: da19c4ff946832255d4650c09277631e
